@@ -8,7 +8,8 @@ import { Link } from "react-router-dom";
 
 
 const spotifyApi = new SpotifyWebApi({
-  clientId: "61153a4ab53f48a492b4a843be1c0705",
+  clientId:
+  //Client ID comes here,
 })
 
 export default function Dashboard() {
