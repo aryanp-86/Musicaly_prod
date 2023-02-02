@@ -1,0 +1,19 @@
+.searchBar {
+    background-color: white;
+    width: 30%;
+    position: sticky;
+    padding: 0.4rem 1rem;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    margin-bottom:25px;
+    margin-left: 25px;
+}
+.searchbar > input  {
+      border: none;
+      height: 2rem;
+      width: 100%;
+}  
+
+   
+  
