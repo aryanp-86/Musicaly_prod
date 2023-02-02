@@ -3,13 +3,12 @@ import TrackSearchResult from "./TrackSearchResults"
 import { Container, Form } from "react-bootstrap"
 import SpotifyWebApi from "spotify-web-api-node"
 import { useStateProvider } from "../utils/StateProvider"
-import "./SearchBar.css"
+import "./Css/SearchBar.css"
 import { Link } from "react-router-dom";
 
 
 const spotifyApi = new SpotifyWebApi({
-  clientId:
-  //Client ID comes here,
+  clientId:"Client ID comes here",
 })
 
 export default function Dashboard() {

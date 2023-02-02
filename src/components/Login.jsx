@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import Musicaly from "../Musicaly.png"
-import Animation from "../Animation";
+import Musicaly from "../Extras/Musicaly.png"
+import Animation from "../Extras/Animation";
 export default function Login() {
   const handleClick = async () => {
     const client_id = "Client ID comes here";

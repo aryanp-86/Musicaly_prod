@@ -1,5 +1,5 @@
 import React from "react";
-import "./PlayerCircle.css";
+import "./Css/PlayerCircle.css";
 
 const Circle = ({ color, percentage, size, strokeWidth }) => {
   const radius = size / 2 - 10;

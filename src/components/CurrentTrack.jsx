@@ -3,7 +3,7 @@ import axios from "axios";
 import { useStateProvider } from "../utils/StateProvider";
 import { reducerCases } from "../utils/Constants";
 import SpotifyPlayer from "react-spotify-web-playback"
-import "./CurrentPlayer.css"
+import "./Css/CurrentPlayer.css"
 
 
 

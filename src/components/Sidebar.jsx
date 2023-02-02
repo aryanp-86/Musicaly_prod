@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Musicaly from "../Musicaly.png"
+import Musicaly from "../Extras/Musicaly.png"
 import Playlists from "./Playlists";
 
 
