@@ -4,7 +4,7 @@ import Musicaly from "../Musicaly.png"
 import Animation from "../Animation";
 export default function Login() {
   const handleClick = async () => {
-    const client_id = "61153a4ab53f48a492b4a843be1c0705";
+    const client_id = "Client ID comes here";
     const redirect_uri = "http://localhost:3000";
     const api_uri = "https://accounts.spotify.com/authorize";
     const scope = [
