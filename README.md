@@ -17,11 +17,6 @@ User can see his Spotify account data and play requested tracks via the music pl
 - Can switch between the web app to spotify's official app or website seamlessly. 
 
 
-## Demo
-
-https://venerable-panda-0858ef.netlify.app/
-
-
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/8Yw5bRm/homepage.jpg)
